@@ -4,7 +4,7 @@ place orders online and have their groceries delivered the same day.
 We have access to their data which is consists of 3M orders from 200K users.
 Our goal is to apply machine learning to predict whether a product ordered by an Instacart user was reordered.
 
-Group member: Hannah Lyon, Andy Cheo, Marine Lin
+Group member: Hannah Lyon, Andy Cheon, Marine Lin
 
 # Main Goal
 How well can we predict whether a product ordered by an Instacart user was reordered?
