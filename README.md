@@ -1,5 +1,5 @@
 # Predicting Instacart repurchases
-Instacart is a grocery delivery and pick up service where users can place orders online and have their groceries delivered the same day. Our goal is to apply machine learning to predict whether a product once ordered by an Instacart user was _reordered_, i.e. "which products are likely to be in a user's next order?"  Here, we present our methods for data cleaning, feature engineering, model training, and model selection.
+Instacart is a grocery delivery and pick up service where users can place orders online and have their groceries delivered the same day. Our goal is to apply machine learning to **predict whether a product once ordered by an Instacart user was _reordered_**, ultimately helping answer the question "which products are likely to be in a user's next order?"  Here, we present our methods for data cleaning, feature engineering, model training, and model selection.
 
 **Team members**: Hannah Lyon, Andy Cheon, Marine Lin
 
